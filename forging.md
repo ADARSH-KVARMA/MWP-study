@@ -267,3 +267,57 @@ Closed‑die forging success hinges on **flash design + preform geometry + contr
 ---
 
 
+You’ve now reached the **quality‑control and defect analysis side of forging**, which is just as critical as the forming process itself. Let’s break this down into a clear, structured overview:
+
+---
+
+## 🧪 Incomplete Forging Penetration
+- **Cause**: Light, rapid hammer blows deform only surface layers → dendritic ingot structure remains in the interior.
+- **Detection**:  
+  - **Macroetching**: Deep etch disks reveal segregation, dendritic structure, and cracks.  
+  - Standard QC procedure for large forgings.
+- **Solution**: Use forging presses for large cross sections → deeper, more uniform penetration.
+
+---
+
+## ⚠️ Typical Forging Defects (Fig. 16‑11)
+1. **Cracking at the Flash (Surface Defect)**  
+   - Occurs when flash is too thin relative to workpiece thickness.  
+   - Crack propagates inward during trimming.  
+   - **Prevention**: Increase flash thickness, relocate flash, hot trim, or stress‑relieve before cold trimming.
+
+2. **Cold Shut / Fold (Surface Defect)**  
+   - Discontinuity when two surfaces fold without welding.  
+   - Causes: sharp die corners, excessive chilling, high friction, too small die radius.  
+   - **Prevention**: Larger die radii, better lubrication, controlled flow.
+
+3. **Scale Pockets / Underfill**  
+   - Loose scale or lubricant residue trapped in die recesses.  
+   - Incomplete descaling → forged‑in scale defects.  
+   - **Prevention**: Proper cleaning and descaling before forging.
+
+4. **Internal Cracking (Secondary Tensile Stresses)**  
+   - Common in upsetting of cylinders/rounds.  
+   - Circumferential tensile stresses cause internal cracks.  
+   - **Prevention**: Concave dies reduce bulging and tensile stresses.  
+   - Less prevalent in closed‑die forging due to lateral compressive stresses from die walls.
+
+---
+
+## 🧬 Microstructural Effects
+- **Fiber Structure (Flow Lines)**:  
+  - Second phases and inclusions align with deformation direction.  
+  - Characteristic of all forgings, not a defect.  
+- **Impact on Properties**:  
+  - Lower tensile ductility and fatigue strength in transverse direction.  
+  - Longitudinal direction retains higher strength and ductility.
+
+---
+
+## ⚖️ Balancing Properties
+- To optimize ductility in both longitudinal and transverse directions:  
+  - Limit deformation to **50–70% reduction in cross section**.  
+  - Ensures adequate breakdown of ingot structure without excessive anisotropy.
+
+---
+
